@@ -1,4 +1,4 @@
-Copyright (C)2023, VadRov, all right reserved.
+Copyright (C)2023, VadRov, all right reserved / www.youtube.com/@VadRov / www.dzen.ru/vadrov
 # Cloning an image of the Windows desktop on a display connected to a microcontroller. Virtual com port. jpeg encoding and decoding.
 The project demonstrates working with a virtual com port. Playing streaming video (motion jpeg). The server (computer) continuously takes screenshots of the desktop, encodes them in jpeg and transmits them to the client (microcontroller) via USB (Virtual COM Port). The microcontroller decodes the image and displays it on the display.\
 MCU - blackpill stm401ccu6\
