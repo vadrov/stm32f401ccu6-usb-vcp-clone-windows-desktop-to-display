@@ -4,7 +4,7 @@ The project demonstrates working with a virtual com port. Playing streaming vide
 
 MCU - blackpill stm401ccu6
 
-Display - st7789 (and compatible). Supported by ili9341 - initialization string needs to be changed (set prefix ILI9341 in display add fubction).
+Display - st7789 (and compatible). Supported by ili9341 - initialization string needs to be changed (set prefix ILI9341 in display add function).
 
 Connection:
 ```
