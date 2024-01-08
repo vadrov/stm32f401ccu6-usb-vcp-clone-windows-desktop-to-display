@@ -1,2 +1,2 @@
-# stm32f401ccu6_usb_vcp_clone_windows_desctop_to_display
+# stm32f401ccu6_usb_vcp_clone_windows_desktop_to_display
  
