@@ -1,0 +1,1 @@
+C:\Users\Vadim\STM32Cube\Repository\stm32f401ccu6_usb_virtual_com_port\Terminal\Release\Terminal.exe
