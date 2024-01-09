@@ -1,7 +1,7 @@
 Copyright (C)2023, VadRov, all right reserved / www.youtube.com/@VadRov / www.dzen.ru/vadrov
-# Cloning an image of the Windows desktop on a display connected to a microcontroller. Virtual com port. jpeg encoding and decoding.
-The project demonstrates working with a virtual com port. Playing streaming video (motion jpeg). The server (computer) continuously takes screenshots of the desktop, encodes them in jpeg and transmits them to the client (microcontroller) via USB (Virtual COM Port). The microcontroller decodes the image and displays it on the display.\
-MCU - blackpill stm401ccu6\
+# Cloning a Windows desktop image on a display connected to a microcontroller. Virtual com port. JPEG encoding and decoding.
+The project demonstrates working with a virtual com port. Play streaming video (motion jpeg). The server (computer) constantly takes screenshots of the desktop, encodes them in jpeg and transfers them to the client (microcontroller) via USB (virtual COM port). The microcontroller decodes the image and shows it on the display.\
+MCU - blackpill stm32f401ccu6\
 Display - st7789 (and compatible). Supported by ili9341 - initialization string needs to be changed (set prefix ILI9341 in display add function)\
 Connection:
 ```
