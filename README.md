@@ -21,4 +21,4 @@ If everything went well, then a copy of the Windows screen should be displayed o
 
 Author: **VadRov**\
 Contacts: [Youtube](https://www.youtube.com/@VadRov) [Дзен](https://dzen.ru/vadrov) [VK](https://vk.com/vadrov) [Telegram](https://t.me/vadrov_channel)\
-Donate: [donate.qiwi](https://donate.qiwi.com/payin/VadRov)  [donate.yoomoney](https://yoomoney.ru/to/4100117522443917)
+Donate: [donate.yoomoney](https://yoomoney.ru/to/4100117522443917)
